@@ -1,6 +1,6 @@
 {
   "public": true,
-  "name": "@preact/compat",
+  "name": "preact-compat-alias-latest",
   "version": "18.2.0",
   "description": "Alias of preact/compat",
   "main": "./index.js",
@@ -37,8 +37,8 @@
     },
     "./package.json": "./package.json"
   },
-  "repository": "preactjs/compat-alias-package",
-  "author": "Preact Team <team@preactjs.com>",
+  "repository": "acapro/compat-alias-package",
+  "author": "Preact Team",
   "license": "MIT",
   "homepage": "https://preactjs.com",
   "peerDependencies": {
